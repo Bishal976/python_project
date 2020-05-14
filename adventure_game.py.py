@@ -81,21 +81,21 @@ def room_boss():
 
 def info():
     print_pause("This is the life saving mission!")
-    # print_pause("if you succeed in this mission, "
-    #             "you can irradicate corona virus from this world")
-    # print_pause("rules for the game:")
-    # print_pause("1. there are total 6 rooms in this business building")
-    # print_pause("2.  only 2 of which contains the key for the 3rd room"
-    #             " containing vaccine")
-    # print_pause("3. if you catch a wrong staircase, it will"
-    #             " lead to your death,as zombies are waiting for you inside")
-    # print_pause("4. the numbers on the staircases are jumbled,so be careful")
-    # print_pause("and if you managed to get to the vaccine chamber,"
-    #             " you will eventually win")
-    # print_pause("5. the vaccine is mounted on a movable robot"
-    #             "which is on move, in every new game its position changes!")
-    # print_pause("6. you can only see the second key"
-    #             " if you have the first one with you!\n")
+    print_pause("if you succeed in this mission, "
+                "you can irradicate corona virus from this world")
+    print_pause("rules for the game:")
+    print_pause("1. there are total 6 rooms in this business building")
+    print_pause("2.  only 2 of which contains the key for the 3rd room"
+                " containing vaccine")
+    print_pause("3. if you catch a wrong staircase, it will"
+                " lead to your death,as zombies are waiting for you inside")
+    print_pause("4. the numbers on the staircases are jumbled,so be careful")
+    print_pause("and if you managed to get to the vaccine chamber,"
+                " you will eventually win")
+    print_pause("5. the vaccine is mounted on a movable robot"
+                "which is on move, in every new game its position changes!")
+    print_pause("6. you can only see the second key"
+                " if you have the first one with you!\n")
     print_pause('''1. stairs to Lobby
 2. stairs to Human resources
 3. stairs to Engineering department
