@@ -1,4 +1,4 @@
-# python_project
+# Python_project
 adventure game made from python
 Steps to play!
 1> Fork The Repositories
@@ -14,4 +14,4 @@ Steps to play!
   d> Run the code
   e> Enjoy the Adventure Game
 
-# If you like the Game. or like to collaborate with me please contact me here [Bishal kumar](mailto:singhbishalkumarsingh@gmail.com?subject=[GitHub] Source Han Sans)
+### If you like the Game. or like to collaborate with me please contact me here [Bishal kumar](mailto:singhbishalkumarsingh@gmail.com)
